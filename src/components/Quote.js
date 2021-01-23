@@ -46,7 +46,7 @@ function Quote() {
           title='Jon Telles, Extremely Good & Professional Developer'
           cite='Jon Telles, Extremely Good & Professional Developer'
         >
-          We've run out of quotes 😔...feel free to{" "}
+          We're out of quotes 😔...feel free to{" "}
           <a href='mailto:jongtelles@gmail.com'>email me more!</a> or{" "}
           <button
             ref={quoteBtn}
