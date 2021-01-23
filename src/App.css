@@ -464,6 +464,10 @@ ul {
     margin: 2rem;
   }
 
+  .about--img:hover {
+    background-image: url(./assets/headshot-8bit.jpg);
+  }
+
   .about--list-container {
     flex-basis: 100%;
   }
