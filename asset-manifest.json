@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/jongtelles.github.io/static/css/main.a299ca65.chunk.css",
+    "main.css": "/jongtelles.github.io/static/css/main.71693953.chunk.css",
     "main.js": "/jongtelles.github.io/static/js/main.7fcb22e6.chunk.js",
     "main.js.map": "/jongtelles.github.io/static/js/main.7fcb22e6.chunk.js.map",
     "runtime-main.js": "/jongtelles.github.io/static/js/runtime-main.d24d679b.js",
@@ -10,7 +10,7 @@
     "static/js/3.89f06357.chunk.js": "/jongtelles.github.io/static/js/3.89f06357.chunk.js",
     "static/js/3.89f06357.chunk.js.map": "/jongtelles.github.io/static/js/3.89f06357.chunk.js.map",
     "index.html": "/jongtelles.github.io/index.html",
-    "static/css/main.a299ca65.chunk.css.map": "/jongtelles.github.io/static/css/main.a299ca65.chunk.css.map",
+    "static/css/main.71693953.chunk.css.map": "/jongtelles.github.io/static/css/main.71693953.chunk.css.map",
     "static/js/2.897396e9.chunk.js.LICENSE.txt": "/jongtelles.github.io/static/js/2.897396e9.chunk.js.LICENSE.txt",
     "static/media/aafmaa-fp.b3d43534.png": "/jongtelles.github.io/static/media/aafmaa-fp.b3d43534.png",
     "static/media/aafmaa-life.e9a4309c.png": "/jongtelles.github.io/static/media/aafmaa-life.e9a4309c.png",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.d24d679b.js",
     "static/js/2.897396e9.chunk.js",
-    "static/css/main.a299ca65.chunk.css",
+    "static/css/main.71693953.chunk.css",
     "static/js/main.7fcb22e6.chunk.js"
   ]
 }
