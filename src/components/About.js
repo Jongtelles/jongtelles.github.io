@@ -15,8 +15,7 @@ function About() {
             </li>
             <li>
               <i className='far fa-comments'></i>
-              Strong communicator with a knack for mobilizing teams and
-              translating technical concepts into plain English (or terrible Spanish)
+              Strong communicator with a knack for translating technical concepts into plain English (or terrible Spanish)
             </li>
             <li>
               <i className='fas fa-rocket'></i>
