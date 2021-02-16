@@ -15,7 +15,8 @@ function About() {
             </li>
             <li>
               <i className='far fa-comments'></i>
-              Strong communicator with a knack for translating technical concepts into plain English (or terrible Spanish)
+              Strong communicator with a knack for translating technical
+              concepts into plain English (or terrible Spanish)
             </li>
             <li>
               <i className='fas fa-rocket'></i>
@@ -34,13 +35,16 @@ function About() {
         </div>
       </div>
       <p className='about--tech-skills'>
-        <strong>Stack:</strong> React (Hooks), Node, JavaScript (ES2015+),
-        SCSS/SASS, CSS3 (animations), HTML5, jQuery
+        <strong>Stack 🥞:</strong> React (Hooks) | Vue | Node | JavaScript
+        (ES2015+) | SCSS/SASS | CSS3 (animations) | HTML5 | jQuery
         <br />
-        <strong>Data:</strong> GraphQL, JSON, MySQL, MongoDB, REST, APIs
+        <strong>Data 💾:</strong> JSON | GraphQL | MySQL | MongoDB | REST | APIs
         <br />
-        <strong>Misc:</strong> Agile, Git, Testing (Jest/Enzyme), Design
-        Systems, BEM, 508 compliance, NPM, Babel, Docker, Gulp, JIRA, InVision
+        <strong>Misc 🔀:</strong> Git | Testing (Jest/Enzyme) | Design Systems |
+        Agile | JIRA | InVision | BEM | 508 compliance | NPM | Babel | Docker | Gulp
+        <br />
+        <strong>Looking Into 👀:</strong> Deno | Dgraph | Kubernetes | FaunaDB |
+        Gatsby | WASM | Rust
       </p>
     </div>
   );
