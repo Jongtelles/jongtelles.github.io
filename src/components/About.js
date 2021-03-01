@@ -43,7 +43,7 @@ function About() {
         <strong>Misc 🔀:</strong> Git | Testing (Jest/Enzyme) | Design Systems |
         Agile | JIRA | InVision | BEM | 508 compliance | NPM | Babel | Docker | Gulp
         <br />
-        <strong>Looking Into 👀:</strong> Deno | Dgraph | Kubernetes | FaunaDB |
+        <strong>Looking Into 👀:</strong> Svelte | Deno | Dgraph | Kubernetes | FaunaDB |
         Gatsby | WASM | Rust
       </p>
     </div>
